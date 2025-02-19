@@ -44,7 +44,7 @@ A **Heap** is a **binary tree** that maintains a specific order:
 ---
 
 ## **Graph**  
-A **Graph** is a collection of nodes (vertices) connected by edges. It can be:  
+- **Graph** is a collection of nodes (vertices) connected by edges. It can be:  
 - **Directed** (edges have direction)  
 - **Undirected** (edges have no direction)  
 
@@ -52,6 +52,18 @@ Graphs are used in shortest path algorithms, networking, and more.
 [View Code](https://github.com/IIEZII/Algorithms/blob/master/graph.py) || [Asciinema Demo](https://asciinema.org/a/w4cJ4uuae3CIJUwyzgm1nXJeV)
 
 ![image](https://github.com/user-attachments/assets/eb763eac-c9ff-425a-8873-35710a2d40ba)
+
+1. All nodes' shortest paths to ∞, infinity, except the starting node, which is 0
+
+![image](https://github.com/user-attachments/assets/326f81c0-b986-46d5-9ef7-d7c49a712daa)
+
+2. A priority queue, min-heap, to always process the node with the shortest known distance first
+3. For each neighbor of the current node, update the shortest distance if the new path is shorter
+4. Push the updated distances into the priority queue and continue until all nodes are processed.
+
+![image](https://github.com/user-attachments/assets/bf4af596-3608-4b10-8664-07bc955ebb9b)
+
+Shortest paths from A: {'A': 0, 'B': 4, 'C': 5, 'D': 13, 'E': 8, 'F': 15}
 
 ---
 
