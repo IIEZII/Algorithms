@@ -31,7 +31,7 @@ A **Queue** follows the **FIFO (First In, First Out)** principle, where elements
 
 ## **Stack**  
 A **Stack** follows the **LIFO (Last In, First Out)** principle, where elements are added and removed from the top.  
-[View Code] || [Asciinema Demo](https://asciinema.org/a/YP97ZbLmWoajNkAjQEfUQ9kVg)
+[View Code](https://github.com/IIEZII/Algorithms/blob/master/stack.py) || [Asciinema Demo](https://asciinema.org/a/YP97ZbLmWoajNkAjQEfUQ9kVg)
 
 ---
 
