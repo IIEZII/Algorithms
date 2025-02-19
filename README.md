@@ -19,7 +19,7 @@ This allows **movement both forward and backward**, unlike a singly linked list.
 ### **Circular Linked List**  
 A **Circular Linked List** is a linked list where the last node points back to the first node, forming a **circular connection**.  
 - It can be **singly circular** (only next pointers) or **doubly circular** (both next and previous pointers).  
-[View Code](https://github.com/IIEZII/Algorithms/blob/master/CircularLinkedList.py) || [GDrive Demo](https://drive.google.com/file/d/19-7qEeohB_MHiTkMUCvuW5CfpX_wYWsg/view?usp=drive_link)
+[View Code](https://github.com/IIEZII/Algorithms/blob/master/CircularLinkedList.py) || [Asciinema Demo](https://asciinema.org/a/KfIjFYDDEXMNrTFvwV9LqPPOy)
 
 ---
 
