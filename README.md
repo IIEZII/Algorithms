@@ -14,7 +14,7 @@ It allows traversal **only in one direction** and does not have a link to the pr
 A **Doubly Linked List** is a type of linked list where each node contains: **Data**, **Next pointer** (points to the next node), and **Previous pointer** (points to the previous node)  
 
 This allows **movement both forward and backward**, unlike a singly linked list.  
-[View Code](https://github.com/IIEZII/Algorithms/blob/master/DoublyLinkedList.py) || [GDrive Demo](https://drive.google.com/file/d/1AiZfRumLs3QIefyct2hwFavYMZktKN7_/view?usp=drive_link)
+[View Code](https://github.com/IIEZII/Algorithms/blob/master/DoublyLinkedList.py) || [Asciinema Demo](https://asciinema.org/a/B0NHYj13v6oatOdbHAnjiS34u)
 
 ### **Circular Linked List**  
 A **Circular Linked List** is a linked list where the last node points back to the first node, forming a **circular connection**.  
