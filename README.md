@@ -1,5 +1,3 @@
-# Data Struct and Algorithms
-
 ## Linked List  
 A **Linked List** is a linear data structure where each element (node) is connected to the next using pointers.
 
