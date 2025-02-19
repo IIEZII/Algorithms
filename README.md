@@ -50,6 +50,7 @@ A **Graph** is a collection of nodes (vertices) connected by edges. It can be:
 
 Graphs are used in shortest path algorithms, networking, and more.  
 [View Code](https://github.com/IIEZII/Algorithms/blob/master/graph.py) || [Asciinema Demo](https://asciinema.org/a/w4cJ4uuae3CIJUwyzgm1nXJeV)
+
 ![image](https://github.com/user-attachments/assets/eb763eac-c9ff-425a-8873-35710a2d40ba)
 
 ---
