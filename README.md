@@ -8,7 +8,7 @@ A **Singly Linked List** is a data structure where each node contains two parts,
 and **Next pointer** (a reference to the next node in the sequence)  
 
 It allows traversal **only in one direction** and does not have a link to the previous node.  
-[View Code](https://github.com/IIEZII/Algorithms/blob/master/SinglyLinkedList.py) || [GDrive Demo](https://drive.google.com/file/d/1Rco3dNIwypiTypc50rRHJeXV-D_0_XO7/view?usp=drive_link)
+[View Code](https://github.com/IIEZII/Algorithms/blob/master/SinglyLinkedList.py) || [Asciinema Demo](https://asciinema.org/a/bZondSCLGm4PE4UUmX6zuRiUj)
 
 ### **Doubly Linked List**  
 A **Doubly Linked List** is a type of linked list where each node contains: **Data**, **Next pointer** (points to the next node), and **Previous pointer** (points to the previous node)  
